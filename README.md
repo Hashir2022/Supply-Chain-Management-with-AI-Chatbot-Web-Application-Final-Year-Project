@@ -33,5 +33,10 @@ The Supply Chain Management System with AI Chatbot is a web-based application de
 | **Hosting (optional)** | Firebase / Heroku / AWS |
 
 ---
+##Source CODE:
+https://drive.google.com/file/d/1LVHH0lt4KFxiyfOFK_oBAvX4CA0LLpv3/view?usp=sharing
+
+##YouTube:
+https://youtu.be/7LjRMHinXsM
 
 ## 🏗️ System Architecture
